@@ -1,6 +1,5 @@
 <h1 align="center" style="text-align: center;">✨ Hey, I'm Sai Uday Karanam ✨</h1>
-
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img align="right" alt="GIF" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400"/>
 
@@ -11,7 +10,7 @@
 - 🌐 Exploring Cybersecurity and Web Application Security</br></br>
 - 🎯 Currently focused on Penetration Testing & Vulnerability Assessments</br></br></br></br>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌟 My Skill Arsenal
 
@@ -26,7 +25,7 @@
     <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="90" height="70"/>
   </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🛠️ Projects
 
@@ -37,7 +36,7 @@
 | 🎬 Movie Review System | React.js, Node.js | User review system with multimedia input |
 | 🔐 Encryption Algorithms | React.js, JavaScript | Webpage with Affine, Atbash, Baconian, Rot-N, and Caesar Cipher algorithms |
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🏆 Certifications
 
@@ -46,7 +45,7 @@
 - ✅ UI/UX Design Basics
 - ✅ Palo Alto Networks Security Operations
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📬 Connect With Me
 
@@ -54,7 +53,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiUday999)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiudaykumar333@gmail.com)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌐 GitHub Stats
 
@@ -63,16 +62,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiUday999&theme=dark" alt="GitHub Streak Stats"/>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🕹️ GitHub Contribution Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiUday999&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" /></br>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiUday999&theme=github_dark" />
+  <iframe src="https://saiuday999.github.io/Pac-Man/" width="800" height="500" frameborder="0"></iframe>
 </p>
 
-
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌌 Let's Build the Future Together!
 
