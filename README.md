@@ -14,16 +14,26 @@
 
 ## 🌟 My Skill Arsenal
 
-  <p align="center">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="90" height="70"/>
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="90" height="70"/>
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="90" height="70"/>
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90" height="70"/>
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" height="70"/>
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="90" height="70"/>
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="90" height="70"/>
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="90" height="70"/>
-  </p>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" height="50"/>
+  <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -69,7 +79,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiUday999&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" /></br>
 
 <p align="center">
-  <iframe src="https://saiuday999.github.io/Pac-Man/" width="800" height="500" frameborder="0"></iframe>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
