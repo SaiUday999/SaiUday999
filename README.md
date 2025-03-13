@@ -80,7 +80,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiUday999&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" /></br>
 
 <p align="center">
-  <img src="https://github.com/SaiUday999/SaiUday999/raw/output/github-snake.svg"/>
+  <img src="https://github.com/SaiUday999/SaiUday999/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
