@@ -15,16 +15,6 @@
 
 ## 🌟 My Skill Arsenal
 
-<div>
-  <style>
-    .icon {
-      transition: transform 0.3s ease-in-out;
-    }
-    .icon:hover {
-      transform: scale(1.2);
-    }
-  </style>
-
   <p align="center">
     <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="90" height="70"/>
     <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="90" height="70"/>
@@ -35,7 +25,6 @@
     <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="90" height="70"/>
     <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="90" height="70"/>
   </p>
-</div>
 
 ---
 
@@ -79,8 +68,9 @@
 ## 🕹️ GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Platane/Platane/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=orange" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiUday999&theme=github_dark" />
 </p>
+
 
 ---
 
